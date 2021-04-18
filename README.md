@@ -1,2 +1,2 @@
 # WhaleLan_splash
-whalelan的gtalk评论系统
+whalelan的gitalk评论系统
